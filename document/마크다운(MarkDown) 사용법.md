@@ -21,13 +21,13 @@
 [5. Backslash Escapes 백슬래쉬 이스케이프](#5-backslash-escapes-백슬래쉬-이스케이프)<br>
 [6. Images 이미지](#6-images-이미지)<br>
 [7. Links (Anchor) 링크](#7-links-anchor-링크)<br>
-[8. Fenced Code Blocks 코드 블럭](#8-fenced-code-blocks-코드-블럭-(빽틱))<br>
+[8. Fenced Code Blocks 코드 블럭](#8-fenced-code-blocks-코드-블럭-빽틱)<br>
 [9. Task Lisk 체크 리스트](#9-task-lisk-체크-리스트)<br>
 [10. Horizontal Rules 수평선](#10-horizontal-rules-수평선)<br>
 [11. Emoji 이모티콘](#11-emoji-이모티콘)<br>
 [12. Table 테이블](#12-table-테이블)<br>
 [13. Line Breaks 줄바꿈](#13-line-breaks-줄바꿈)<br>
-[14. Comments 참고 링크](#14-Comments-참고-링크)<br>
+[14. Comments 주석](#14-Comments-주석)<br>
 [16. Reference 참고 링크](#15-reference-참고-링크)<br>
 
 ## 1. Headers 헤더
@@ -292,7 +292,7 @@ cell9|cell10|cell11|cell12
 	쭉 작성하다.
 	한번 더 바꾸고 싶어요.<br>
 
-## 14. comments 주석.
+## 14. Comments 주석
 * <!-- -->, [//]: # 기호를 사용해, 주석(Comment)을 표현합니다.
 ### Syntax 마크다운 사용법
     -- 주 --
