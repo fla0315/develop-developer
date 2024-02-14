@@ -21,7 +21,7 @@
 [5. Backslash Escapes 백슬래쉬 이스케이프](#5-backslash-escapes-백슬래쉬-이스케이프)<br>
 [6. Images 이미지](#6-images-이미지)<br>
 [7. Links (Anchor) 링크](#7-links-anchor-링크)<br>
-[8. Fenced Code Blocks 코드 블럭](#8-fenced-code-blocks-코드-블럭)<br>
+[8. Fenced Code Blocks 코드 블럭](#8-fenced-code-blocks-코드-블럭-(빽틱))<br>
 [9. Task Lisk 체크 리스트](#9-task-lisk-체크-리스트)<br>
 [10. Horizontal Rules 수평선](#10-horizontal-rules-수평선)<br>
 [11. Emoji 이모티콘](#11-emoji-이모티콘)<br>
@@ -152,11 +152,11 @@ __두껍게 쓰기 실행결과__ <br>
 	인라인 링크: [링크](http://example.com "링크 제목")
 	url 링크: <example.com>, <example@example.com>; 꺽쇠 괄호 없어도 자동으로 링크를 사용
 ### Syntax 마크다운 사용법
-	[Google](http://www.google.com "구글") Google
-	www.google.com; Google
+	[Google](http://www.google.com "구글")
+	www.google.com
 ### External Links 실행결과
-[Google](http://www.google.com "구글") Google
-www.google.com; Google
+[Google](http://www.google.com "구글") <br>
+www.google.com
 
 ## 7.2. Internal Links 내부 링크
 	[보여지는 내용](#이동할 헤드(제목))
